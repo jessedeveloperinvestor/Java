@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one.aula1;
+package one.aula1;
 
 public class Aula {
     public static void main(String[] args) {

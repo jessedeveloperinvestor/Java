@@ -1,4 +1,5 @@
-package br.com.digital.innovation.one.aula1.FatorialRecursivo;
+package
+aula1.FatorialRecursivo;
 
 public class FatorialRecursivo {
     public static void main(String[] args) {
