@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one.aula5;
+package aula4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

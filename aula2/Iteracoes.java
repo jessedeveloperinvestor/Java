@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one.aula2;
+package aula2;
 
 import java.util.ArrayList;
 import java.util.List;
