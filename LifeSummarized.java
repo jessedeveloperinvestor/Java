@@ -7,7 +7,7 @@ class Life {
 		while (thelife == true) {
 			System.out.println("Decide what's best to be done");
 			System.out.println("Do what is decided");
-			if (failure == true) {
+			if (failure == true) {;
 				break
 			}
 		}
