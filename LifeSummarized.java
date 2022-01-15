@@ -4,12 +4,16 @@ class Life {
 		boolean thelife = true;
 		boolean failure = false;
 
-		while (thelife == true) {
+		while (thelife.equals(true)) {
 			System.out.println("Decide what's best to be done");
 			System.out.println("Do what is decided");
-			if (failure == true) {;
-				break
+			if (failure.equals(true)) {
+				break;
 			}
+		}
+	}
+}
+
 		}
 	}
 }
