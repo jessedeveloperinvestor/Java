@@ -8,7 +8,6 @@ public class ContagemCedulas {
         int apagar;
         int[] notas = new int[]{100, 50, 20, 10, 5, 2, 1};
         int[] totalNotas = new int[7];
-        boolean success = true;
         
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         valorpagar = br.readLine();
